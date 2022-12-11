@@ -2,7 +2,7 @@
     width: 92.5%;
     min-height: 52px;
     margin: 0 auto;
-    outline: 2px solid red;
-    position: relative;
     margin-top: 28px;
+    display: flex;
+    justify-content: space-between;
 }
