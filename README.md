@@ -1,5 +1,7 @@
 # Проект: Путешествие по России
 
+Ссылка проекта на GitHub: "https://watariii.github.io/russian-travel/"
+
 ### Обзор
 * Интро
 * Figma

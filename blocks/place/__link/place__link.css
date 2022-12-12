@@ -5,3 +5,9 @@
     font-size: 18px;
     line-height: 22px;
 }
+
+@media (min-width: 1024px) {
+    .place__link:hover {
+        opacity: 0.8;
+    }
+}
