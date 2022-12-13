@@ -5,6 +5,7 @@
     flex-direction: column;
     gap: 80px;
 }
+
 @media (max-width: 1024px) {
     .places {
         width: 90.625%;
