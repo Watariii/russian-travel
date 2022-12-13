@@ -2,24 +2,17 @@
 	max-width: 600px;
     font-style: normal;
  	font-weight: 400;
-	font-size: 32px;
+	font-size: 30px;
 	line-height: 36px;
 	text-align: center;
     margin: 0 auto;
     margin-top: 33px;
     margin-bottom: 64px;
-    letter-spacing: -1.1px;
 }
 
 @media (max-width: 1024px) {
     .lead__subtitle {
         margin-bottom: 56px;
-    }
-}
-
-@media (max-width: 768px) {
-    .lead__subtitle {
-        margin-bottom: 56px;  
     }
 }
 
@@ -35,10 +28,5 @@
 @media (max-width: 320px) {
     .lead__subtitle {
 		max-width: 288px;
-		font-size: 16px;
-		line-height: 20px;
-        margin-top: 16px;
-        margin-bottom: 40px;
-        letter-spacing: 0px;
 	}
 }
